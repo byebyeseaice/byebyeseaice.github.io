@@ -41,12 +41,12 @@ for the Jekyll site. The defaults are:
 
 ```yml
 # Site settings
-title: Pixyll
-email: your_email@example.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title: Bye Bye Sea Ice
+email: byebyeseaice@hushmail.com
+author: Bye Bye Sea Ice
+description: "Bye Bye Sea Ice is a blog about the collapse of civilization."
 baseurl: ""
-url: "http://pixyll.com"
+url: "https://byebyeseaice.github.io"
 
 # Build settings
 markdown: kramdown
