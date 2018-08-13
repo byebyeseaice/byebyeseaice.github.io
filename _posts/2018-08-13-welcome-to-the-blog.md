@@ -51,7 +51,8 @@ If I had to choose one book "to rule them all", I would go for this:
 It explains in great detail the concept of carrying capacity for planet Earth. I believe understanding this concept sets the correct frame of mind for any meaningful discussion on collapse.
 
 I also regularly follow [/r/collapse](https://www.reddit.com/r/collapse/) on Reddit as a source of fresh information.
-Going forward
+
+## Going Forward
 
 I find it challenging to talk about collapse with friends, family and strangers. And I know I am not alone.
 
